@@ -1,0 +1,34 @@
+constants:
+    RYO_API: Ryo.Interfaces.IRyoApi
+    FS_API: RemixToolkit.Interfaces.IFileSystem
+
+settings:
+    - id: enableMusicMod
+      type: toggle
+      default: true
+      name: Enable the DigiFarm Randomized Music
+      category: Music
+      description: Enable or disable the replacement of the DigiFarm music with randomized tracks.
+
+    - id: music_volume
+      type: number
+      default: 2
+      name: Music Volume
+      category: Music
+      description: Volume for BGM Replacement (Range from 1 to 9, where 9 is full volume).
+
+actions:
+    - using: '{FS_API}'
+      if: 
+      run: WriteFile
+      with:
+        - '{ModDir}/MoreMusic/bgm/bgm501.acb/bgm501.cue/config.yaml'
+        - |
+          volume: 0.{music_volume}
+
+    - using: '{RYO_API}'
+      if: enableMusicMod
+      run: AddAudioPath
+      with:
+        - '{ModDir}/MoreMusic/'
+        - null

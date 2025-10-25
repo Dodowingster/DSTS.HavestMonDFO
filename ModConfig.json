@@ -1,0 +1,72 @@
+{
+  "ModId": "DSTS.HavestMonDFO",
+  "ModName": "Harvest Mon Back to DigiNature - DigiFarm Overhaul",
+  "ModAuthor": "Dodowingster",
+  "ModVersion": "1.0",
+  "ModDescription": "Improves the DigiFarm in aspects to allow passive grinding. Also rewards you for putting more Digimon in the DigiFarm and introducing More Crafting Recipes and Decompositions.",
+  "ModDll": "RemixToolkit.HostMod.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": false,
+  "HasExports": false,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "DSTS.HavestMonDFO.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "DSTS.ModLoader": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "DSTS.ModLoader",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "DSTS.ModLoader.ReleaseMetadata.json"
+        },
+        "MVGL.FileLoader.Reloaded": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "MVGL.FileLoader",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "MVGL.FileLoader.Reloaded.ReleaseMetadata.json"
+        },
+        "Reloaded.Memory.SigScan.ReloadedII": {
+          "Config": {
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Memory.SigScan",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        }
+      }
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "DSTS.ModLoader",
+    "RemixToolkit.Reloaded"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "digimon story time stranger.exe"
+  ],
+  "ProjectUrl": "",
+  "CreatorUrl": "",
+  "IsSeparator": false
+}
