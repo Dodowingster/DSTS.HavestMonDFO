@@ -10,7 +10,7 @@
 
 Ever felt the DigiFarm was a bit... barren? Wishing you could do more with it than just train your Digimon? What if your farm could actually *farm* and become a bustling hub for your entire team?
 
-**Harvest Mon: Back to DigiNature** is a complete overhaul of the DigiFarm system in *Digimon Story: Time Stranger*. This mod transforms the farm into a center of passive resource generation, quality-of-life improvements, and introduced expanded crafting, making it an essential and rewarding part of your Digimon-raising journey.
+**Harvest Mon: Back to DigiNature** is a complete overhaul of the DigiFarm system in ***Digimon Story: Time Stranger***. This mod transforms the farm into a center of **passive resource generation**, **quality-of-life improvements**, and introduced **expanded crafting**, making it an essential and rewarding part of your Digimon-raising journey.
 
 ![alt text](/img/image.png)
 
@@ -23,8 +23,6 @@ Your DigiFarm is no longer just a passive training ground. It now lives up to it
 
 *   **Passive Food Generation:** The farm will now automatically produce various types of DigiFood over time. The more Digimon you have on the farm, the better the yields!
 
-<img src="./img/NoDigisLotsofDigis.png" alt="Food" width="320">
-
 #### **2. Quality of Life Crafting & Bonding**
 I've streamlined the bonding process and expanded your crafting capabilities to make managing your team easier and more rewarding.
 
@@ -32,20 +30,21 @@ I've streamlined the bonding process and expanded your crafting capabilities to 
 *   **New Crafting & Breakdown Recipes:** Zudomon's shop is now stocked with tons of new recipes. Craft powerful curatives and attachments, or break down unwanted items into useful materials.
 *   **Progressive Unlocks:** Your crafting capabilities grow alongside your adventure! New recipes become available at Zudomon's shop as you advance through the main story.
 
-<img src="./img/FriendshipDX.png" alt="DX" width="320">
-
 #### **3. Clearer Training & Better Aesthetics**
 I've polished the DigiFarm training icons to make it more intuitive and visually diverse.
 
 *   **Upgraded Naming Scheme:** Training sets now use a clear, tiered naming system with Greek letters (Alpha, Beta, etc.) to instantly communicate their effectiveness.
 *   **New Icons:** Enjoy new, distinct icons for training equipment, adding more visual flair and clarity to the stats the training equipment specializes in.
+> **NOTE:** Currently, the naming feature is only available in the English Version of the game.
 
 <img src="./img/BetterNameClarity.png" alt="icons" width="320">
 
 #### **4. Optional Soundtrack Addons**
 Enhance the DigiFarm vibe with an optional soundtrack replacer. Swap out the default music for new tracks to make your farm vibe more with you. This will randomize the music in the DigiFarm! You can toggle them on/off with the reloaded-ii configuration.
 
-<img src="./img/WorldChampionship.png" alt="icons" width="320">
+The songs currently included are:
+*   [Digimon World Championship - Hunt Screen Music](https://www.youtube.com/watch?v=Sdw2pRcYX08)
+*   [Digimon World Re:Digitize Decode OST - Gym](https://www.youtube.com/watch?v=e5LkdrPCMH4)
 
 ### ⚠️ Compatibility Warning
 Heads up! This mod directly edits game data, so it won't play nice with other mods that touch the same files (like shop data).
