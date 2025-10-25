@@ -1,6 +1,6 @@
 {
-  "ModId": "DSTS.HavestMonDFO",
-  "ModName": "Harvest Mon Back to DigiNature - DigiFarm Overhaul",
+  "ModId": "DSTS.HarvestMonDFO",
+  "ModName": "Harvest Mon Back to DigiNature - A DigiFarm Overhaul",
   "ModAuthor": "Dodowingster",
   "ModVersion": "1.0",
   "ModDescription": "Improves the DigiFarm in aspects to allow passive grinding. Also rewards you for putting more Digimon in the DigiFarm and introducing More Crafting Recipes and Decompositions.",
@@ -14,7 +14,7 @@
   "CanUnload": false,
   "HasExports": false,
   "IsLibrary": false,
-  "ReleaseMetadataFileName": "DSTS.HavestMonDFO.ReleaseMetadata.json",
+  "ReleaseMetadataFileName": "DSTS.HarvestMonDFO.ReleaseMetadata.json",
   "PluginData": {
     "GitHubDependencies": {
       "IdToConfigMap": {
@@ -64,6 +64,10 @@
           "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
         }
       }
+    },
+    "GameBanana": {
+      "ItemType": "Mod",
+      "ItemId": 629240
     }
   },
   "IsUniversalMod": false,
@@ -75,7 +79,7 @@
   "SupportedAppId": [
     "digimon story time stranger.exe"
   ],
-  "ProjectUrl": "",
-  "CreatorUrl": "",
+  "ProjectUrl": "https://gamebanana.com/mods/629240",
+  "CreatorUrl": "https://gamebanana.com/members/4857381",
   "IsSeparator": false
 }
