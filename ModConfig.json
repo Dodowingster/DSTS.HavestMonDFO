@@ -27,6 +27,15 @@
           },
           "ReleaseMetadataName": "DSTS.ModLoader.ReleaseMetadata.json"
         },
+        "RemixToolkit.Reloaded": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "RemixToolkit",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "RemixToolkit.Reloaded.ReleaseMetadata.json"
+        },
         "MVGL.FileLoader.Reloaded": {
           "Config": {
             "UserName": "RyoTune",
